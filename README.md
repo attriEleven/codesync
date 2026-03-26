@@ -67,9 +67,5 @@ Then open:
 
 - **Frontend**: `http://localhost:3000`
 
-## Screenshots
 
-- Room join / create screen (placeholder)
-- Editor + chat sidebar layout (placeholder)
-- In-room active users + chat (placeholder)
 
